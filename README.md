@@ -1,7 +1,7 @@
 # Trabalho de Banco de dados do Serratec
 
 ## **Modelo Lógico:**
-![modelo_logico_BD]()
+![modelo_logico_BD](https://github.com/luizmiele/Serratec-BD/blob/main/ModeloLogico.png)
 
 
 
